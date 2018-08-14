@@ -118,7 +118,6 @@ seqnum = data.external_data()[11]
 heatstat = data.external_data()[12]
 
 deg = u"\u00b0"
-k = 0
 font = {'weight': 'heavy'}
 plt.rc('font', **font)
 
